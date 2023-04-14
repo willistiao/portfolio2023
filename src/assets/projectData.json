@@ -1,0 +1,52 @@
+[
+	{
+		"id": 1,
+		"title": "Pixel Film Studios",
+		"year": "2019 - Current",
+		"role": "Product Designer, Front End Developer",
+		"description": "Collaborated with the development team to assess the current UI and establish a comprehensive design system that seamlessly integrates across both macOS and web platforms.",
+		"image": "src/assets/img/icons_test.png",
+		"link": "new-page",
+		"cursorText": "view prototype"
+	},
+	{
+		"id": 2,
+		"title": "East End Entertainment",
+		"year": "2019",
+		"role": "Web Design, Vue, three.js",
+		"description": "Reel website designed and built for Los Angeles based video production team, East End Entertainment.",
+		"image": "src/assets/img/badass-films-1.jpg",
+		"link": "new-page",
+		"cursorText": "view website"
+	},
+	{
+		"id": 3,
+		"title": "East End Entertainment",
+		"year": "2019",
+		"role": "Web Design, Vue, three.js",
+		"description": "Reel website designed and built for Los Angeles based video production team, East End Entertainment.",
+		"image": "src/assets/img/museum-thumbnail.jpeg",
+		"link": "inmuseum",
+		"cursorText": "view different"
+	},
+	{
+		"id": 4,
+		"title": "IKEA Place",
+		"year": "2017",
+		"role": "UI Design, Prototype, AR",
+		"description": "IKEA Builder helps users more accurately visualize furnishing options in the context of their own rooms.",
+		"image": "src/assets/img/IKEA-Thumbnail.jpg",
+		"link": "new-page",
+		"cursorText": "view prototype"
+	},
+	{
+		"id": 5,
+		"title": "inMuseum (Concept)",
+		"year": "2017",
+		"role": "UI/UX Design, Figma, Blender",
+		"description": "Collaborated with fellow designers to conceptualize a way to bring the museum gallery experience to users at home or on the go.",
+		"image": "src/assets/img/inmuseum.webp",
+		"link": "inmuseum",
+		"cursorText": "view prototype"
+	}
+]

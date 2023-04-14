@@ -1,0 +1,25 @@
+@forward 'globals';
+@forward 'util';
+
+.arrow_about::before,
+.arrow_pointer::after,
+.arrow_link::after {
+	display: inline-block;
+	width: 1.5em;
+	height: 2.3em;
+	transform: scale(0.75);
+}
+
+.arrow_about::before {
+	content: url('../assets/arrow_about.svg');
+}
+
+.arrow_pointer::after {
+	content: url('../assets/pointer_arrow.svg');
+}
+
+.arrow_link::after {
+	content: url('../assets/arrow_link.svg');
+	height: 3.5em;
+	transform: scale(0.7);
+}
