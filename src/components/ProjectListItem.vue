@@ -1,6 +1,6 @@
 <script setup>
 import { ref, computed, defineComponent } from 'vue'
-import projectData from '../assets/projectData.json'
+import projectData from '../projectData.json'
 
 const projects = ref(projectData)
 const cursor = ref('')
