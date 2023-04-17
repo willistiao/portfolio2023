@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
 	plugins: [vue()],
 	root: '',
-	base: '/portfolio2023/',
+	base: '/',
 	build: {
 		outDir: 'dist',
 		emptyOutDir: true,
